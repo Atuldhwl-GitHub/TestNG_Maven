@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="16" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T18:45:51 IST" name="SuiteSanityPractice" finished-at="2023-01-26T18:45:52 IST" duration-ms="225">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T18:45:51 IST" name="ChromeTest" finished-at="2023-01-26T18:45:51 IST" duration-ms="98">
+      <class name="suiteTestNGpractice.TestSuiteClass_2">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="beforetest" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="beforeclass" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="testB()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="testB" finished-at="2023-01-26T18:45:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="beforemethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="aftermethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="beforemethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testD()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="testD" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="aftermethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="afterclass" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@30ee2816]" started-at="2023-01-26T18:45:51 IST" name="aftertest" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- suiteTestNGpractice.TestSuiteClass_2 -->
+      <class name="suiteTestNGpractice.TestSuiteClass_1">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="beforetest" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="beforeclass" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="beforemethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test3()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="test3" finished-at="2023-01-26T18:45:51 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="aftermethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="beforemethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test1()[pri:1, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="test1" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="aftermethod" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="afterclass" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@654f0d9c]" started-at="2023-01-26T18:45:51 IST" name="aftertest" finished-at="2023-01-26T18:45:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- suiteTestNGpractice.TestSuiteClass_1 -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-01-26T18:45:52 IST" name="FireFoxTest" finished-at="2023-01-26T18:45:52 IST" duration-ms="32">
+      <class name="suiteTestNGpractice.TestSuiteClass_2">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:51 IST" name="beforesuite" finished-at="2023-01-26T18:45:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="beforetest" finished-at="2023-01-26T18:45:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="testB()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="testB" finished-at="2023-01-26T18:45:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="beforeclass" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="beforemethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="aftermethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="beforemethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testD()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="testD" finished-at="2023-01-26T18:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="aftermethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="aftertest" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="afterclass" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_2@1afd44cb]" started-at="2023-01-26T18:45:52 IST" name="aftersuite" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- suiteTestNGpractice.TestSuiteClass_2 -->
+      <class name="suiteTestNGpractice.TestSuiteClass_1">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:51 IST" name="beforesuite" finished-at="2023-01-26T18:45:51 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="beforetest" finished-at="2023-01-26T18:45:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="beforeclass" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="test4()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="test4" finished-at="2023-01-26T18:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="beforemethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="aftermethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="beforemethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test2()[pri:2, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="test2" finished-at="2023-01-26T18:45:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="aftermethod" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="afterclass" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="aftertest" finished-at="2023-01-26T18:45:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:suiteTestNGpractice.TestSuiteClass_1@72057ecf]" started-at="2023-01-26T18:45:52 IST" name="aftersuite" finished-at="2023-01-26T18:45:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- suiteTestNGpractice.TestSuiteClass_1 -->
+    </test> <!-- FireFoxTest -->
+  </suite> <!-- SuiteSanityPractice -->
+</testng-results>

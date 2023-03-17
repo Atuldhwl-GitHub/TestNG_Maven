@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteSanityPractice]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test1234ABCD(failed)">
+    <classes>
+      <class name="testNGpakage.TestNGKotak">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+          <include name="test1VerifyHomeLoanEmiCalculator"/>
+          <include name="test2VerifyEmiWebPayment"/>
+          <include name="beforeMethod"/>
+          <include name="test3VerifyLocateUsFunction"/>
+        </methods>
+      </class> <!-- testNGpakage.TestNGKotak -->
+    </classes>
+  </test> <!-- Test1234ABCD(failed) -->
+</suite> <!-- Failed suite [SuiteSanityPractice] -->
